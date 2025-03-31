@@ -39,7 +39,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency('rspec', '~> 3.6')
   s.add_development_dependency('rubocop', '~> 1.28.2')
   s.add_development_dependency('rubocop-packaging', '~> 0.5.1')
-  s.add_development_dependency('rubocop-performance', '~> 1.13.3')
+  s.add_development_dependency('rubocop-performance', '~> 1.19.1')
   s.add_development_dependency('rubocop-rspec', '~> 2.10.0')
   s.add_development_dependency('sqlite3', '~> 1.3')
 
